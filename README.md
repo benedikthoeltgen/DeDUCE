@@ -1,5 +1,7 @@
 # DeDUCE
 
+This repository contains the code for [DeDUCE: Generating Counterfactual Explanations Efficiently](https://arxiv.org/abs/2111.15639); Benedikt Höltgen, Lisa Schut, Jan M. Brauner, Yarin Gal.
+
 ## Prelims: model training
 `run_training.py` trains ResNets, drawing on files in `DDU`.
 Sanity checks for the DDU models are performed in `nb_DDU_FashionMNIST.ipynb`.
